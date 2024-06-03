@@ -31,13 +31,7 @@
 
  <div align="center"  class="icons-social" style="margin-center: 10px;">
 <div>   
-    <a href="mailto:mohammadhadirauf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=protonmail&logoColor=F0DB4F" alt="Asharib Ali - Email"></a>
-   
-    <a href="https://twitter.com/0xAsharib" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=F0DB4F" alt="Asharib Ali-Twitter"></a>
-    <a href="[https://linkedin.com/in/asharibali](https://www.linkedin.com/in/mohammad-hadi-nextjs-mern-jamstack/)" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" alt="Mohammad-Hadi-Linkedin"></a><br>
- >
-    <br>
-</div>
+  
 
 </p>
 
@@ -45,9 +39,9 @@
 <h2>:label: Github Stats</h2>
 
 <div>
-    <a href="#"><img alt="Asharib Ali Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Mohammad Hadi Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asharibali&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
-    <a href="#"><img alt="Asharib Ali Github Stats" src="https://github-readme-stats.vercel.app/api?username=asharibali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
+    <a href="#"><img alt="Mohammad Hadi Github Stats" src="https://github-readme-stats.vercel.app/api?username=asharibali&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200px" /></a>
     <br>
 </div>
 
@@ -63,13 +57,4 @@
 | <img src="https://img.shields.io/badge/-Solidity-0D1117?style=flat-square&logo=solidity&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-ChakraUi-0D1117?style=flat-square&logo=chakraui&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=F0DB4F">  | 
 | <img src="https://img.shields.io/badge/-Rust-0D1117?style=flat-square&logo=rust&logoColor=F0DB4F"> | <img src="https://img.shields.io/badge/-Ethereum-0D1117?style=flat-square&logo=ethereum&logoColor=F0DB4F">  | <img src="https://img.shields.io/badge/-VSCode-0D1117?style=flat-square&logo=visualstudio&logoColor=F0DB4F">  | <br>
 
-<hr>
-<p align="center">
-❤️منزل سے آگے بڑھ کر منزل تلاش کر مل جائے تجھکو دریا تو سمندر تلاش کر❤️<br>
-❤️ہر شخص جل رہا ہے عداوت کی آگ میں اس آگ کو بجھا دے وہ پانی تلاش کر❤️<br>
-❤️سجدوں سے تیرے کیا ہوا صدیاں گزر گئیں دنیا تیری بدل دے وہ سجدہ تلاش کر ❤️<br>
-❤️ہر شیشہ ٹوٹ جاتا ہے پتھر کی چوٹ سے پتھر بھی ٹوٹ جائے وہ شیشہ تلاش کر ❤️<br>
-❤️ستاروں سے آگے جہاں اور بھی ہیں ابھی عشق کے امتحاں اور بھی ہیں ❤️<br>
 
-</p>
-<hr>
