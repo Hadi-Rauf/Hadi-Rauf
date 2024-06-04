@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Danish Siddiqui</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Hadi</h1>
 <h3 align="center">A full-stack developer from Pakistan with over 2 years of hands-on experience in the field of web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hadi-Rauf&label=Profile%20views&color=0e75b6&style=flat" alt="Hadi-Rauf" /> </p>
