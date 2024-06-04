@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **NextJs, Python, AI, OpenAI**
 
 
-- 👨‍💻 All of my projects are available at [https://danish-siddiqui.vercel.app/](https://Hadi-Rauf.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://Hadi-Rauf.vercel.app/](https://Hadi-Rauf.vercel.app/)
 
 - 💬 Ask me about **react, nextjs, css, tailwind, node, firebase**
 
