@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Hadi</h1>
+<h1 align="center">Hi 👋, I'm Danish Siddiqui</h1>
 <h3 align="center">A full-stack developer from Pakistan with over 2 years of hands-on experience in the field of web development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hadi-Rauf&label=Profile%20views&color=0e75b6&style=flat" alt="Hadi-Rauf" /> </p>
@@ -22,8 +22,7 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mohammad-hadi-nextjs-mern-jamstack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="danish-siddiqui-7537b62a4" height="30" width="40" /></a>
-<a href="https://fb.com/danish siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danish siddiqui" height="30" width="40" /></a>
-<a href="https://instagram.com/doesnt.matter.o_o" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doesnt.matter.o_o" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
