@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hadi-Rauf" alt="Hadi-Rauf" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dewhehe_sh" target="blank"><img src="https://img.shields.io/twitter/follow/dewhehe_sh?logo=twitter&style=for-the-badge" alt="dewhehe_sh" /></a> </p>
+
 
 - 🌱 I’m currently learning **NextJs, Python, AI, OpenAI**
 
